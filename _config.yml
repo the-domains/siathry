@@ -1,0 +1,28 @@
+name: Siathry
+favicon: null
+layout_spectrum: 0.7241209184285253
+typography_spectrum: 0.7112995136994869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7300031699705869
+  lightness: 0.01866050553508103
+  saturation: 0.39255143981426954
+  rhythmicContrast: 0.6384986746124923
+purpose: []
