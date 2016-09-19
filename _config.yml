@@ -1,11 +1,35 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.42514804448001087
+color:
+  saturation: 0.05797981424257159
+  brandStrength: 0.5016759049613029
+  rhythmicContrast: 0.1943431799300015
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  lightness: 0.10460612643510103
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8018604309763759
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Juan Paolo Sandig
+  email: siathry@yahoo.com
+  url: ''
+name: Siathry
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -18,23 +42,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.7241209184285253
-cta:
-  bucket: null
-  version: null
-  domain: null
-color:
-  saturation: 0.3925514398142695
-  brandStrength: 0.7300031699705869
-  rhythmicContrast: 0.6384986746124923
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  lightness: 0.01866050553508103
+title: Siathry
+description: 'travel, art, love and adventure'
 purpose: []
-favicon: null
-name: Siathry
-typography_spectrum: 0.7112995136994869
